@@ -1,5 +1,5 @@
-# OnlineTicket
-Proyecto para la asignatura de Automatización de Pruebas Duoc UC
+# ticket-booking-api
+REST API for event ticket booking and management using Spring Boot and SQL Server
 
 Desarrollado con Java Spring Boot, thymeleaf, MS Sql Server, Transbank
 
