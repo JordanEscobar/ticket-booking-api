@@ -1,5 +1,5 @@
 # ticket-booking-api
-REST API for event ticket booking and management using Spring Boot and SQL Server
+Api Rest para la compra de tickets para diversos eventos.
 
 Desarrollado con Java Spring Boot, thymeleaf, MS Sql Server, Transbank
 
